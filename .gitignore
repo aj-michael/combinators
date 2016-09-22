@@ -1,0 +1,5 @@
+*.swp
+/.idea
+/bazel-*
+/combinators.iml
+/out/
